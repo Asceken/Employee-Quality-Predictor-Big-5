@@ -8,6 +8,7 @@ The [IPIP-FFM-data-8Nov2018] Dataset -- This dataset contains 1,015,342 question
 
 # Techniques 
 Mini Batch K-means algorithm
+
 Min-Max Normalization
 
 # Applications
@@ -19,8 +20,11 @@ Pandas
 NumPy
 
 Matplotlib
+
 Seaborn
+
 Scikit-learn
+
 Flask
 
 # Sources
