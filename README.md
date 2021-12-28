@@ -15,7 +15,9 @@ Jupyter Notebook
 
 # Libraries
 Pandas
+
 NumPy
+
 Matplotlib
 Seaborn
 Scikit-learn
